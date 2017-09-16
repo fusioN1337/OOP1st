@@ -1,3 +1,3 @@
 # OOP1st
-# Konoplitskiy Aleksandr Mikhailovich
+# Konoplitskiy Aleksandr Mikhaylovich
 # POIT 2-5
